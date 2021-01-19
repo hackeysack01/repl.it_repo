@@ -2,8 +2,8 @@
 #include "hello.h"
 #include "world.h"
 
-void hello();
-void world();
+void hello(void);
+void world(void);
 
 int main(void) {
   hello();

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void world()
+void world(void)
 {
     printf("World!\n");
 }
